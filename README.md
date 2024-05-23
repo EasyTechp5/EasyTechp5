@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Israel Afolabi</h1>
-<h3 align="center">A passionate Data analyst and Data Scientist from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animations/data-analysis">
+<h3 align="center">I am a passionate, self-motivated mathematician, data analyst, and Machine Learning engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easytechp5&label=Profile%20views&color=0e75b6&style=flat" alt="easytechp5" /> </p>
 
 <p align="left"> <a href="https://twitter.com/easy_p5" target="blank"><img src="https://img.shields.io/twitter/follow/easy_p5?logo=twitter&style=for-the-badge" alt="easy_p5" /></a> </p>
 
-- 💬 Ask me about **Data, Data Analysis, Data Science, and Machine Learning**
+- 💬 Ask me about **Data Analysis, Data Science, Machine Learning**
 
 - 📫 How to reach me **afolabiisraelolajide@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pFOgOIcNxVzuAcBz41lhjo4xIrJsReGpUIEBmE4A7sQ/edit](Click here)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1pFOgOIcNxVzuAcBz41lhjo4xIrJsReGpUIEBmE4A7sQ/edit](https://docs.google.com/document/d/1pFOgOIcNxVzuAcBz41lhjo4xIrJsReGpUIEBmE4A7sQ/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/easy_p5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="easy_p5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/israel afolabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel afolabi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/israel afolabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israel afolabi" height="30" width="40" /></a>
+<a href="https://kaggle.com/afolabi israel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="afolabi israel" height="30" width="40" /></a>
 <a href="https://fb.com/afolabi israel olajide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afolabi israel olajide" height="30" width="40" /></a>
 <a href="https://instagram.com/afolabi_israel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afolabi_israel" height="30" width="40" /></a>
+<a href="https://discord.gg/Easygoing3397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Easygoing3397" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
