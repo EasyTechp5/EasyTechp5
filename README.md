@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel Afolabi</h1>
-<h3 align="center">I am a passionate, self-motivated mathematician, data analyst, and Machine Learning engineer currently working on projects on AI.</h3>
+<h3 align="center">I am at the leading edge of innovations in AI development & automation, working with AI tools and frameworks to work smarter, better, and faster..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easytechp5&label=Profile%20views&color=0e75b6&style=flat" alt="easytechp5" /> </p>
 
