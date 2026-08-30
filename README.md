@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **afolabiisraelolajide@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://www.israel.easytech365.com)
+- 📄 Know about my experiences [Portfolio]([https://www.israel.easytech365.com](https://israel.easytech365.com/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
