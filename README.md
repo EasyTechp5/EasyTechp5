@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/easy_p5" target="blank"><img src="https://img.shields.io/twitter/follow/easy_p5?logo=twitter&style=for-the-badge" alt="easy_p5" /></a> </p>
 
-- 💬 Ask me about **Data Analysis, Data Science, Machine Learning**
+- 💬 Ask me about **AI, AI Automation, AI Tools, Agentic AI**
 
 - 📫 How to reach me **afolabiisraelolajide@gmail.com**
 
